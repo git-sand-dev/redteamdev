@@ -1,0 +1,15 @@
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\RedTeamDevelop.csproj.AssemblyReference.cache
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\RedTeamDevelop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\RedTeamDevelop.AssemblyInfoInputs.cache
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\RedTeamDevelop.AssemblyInfo.cs
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\RedTeamDevelop.csproj.CoreCompileInputs.cache
+C:\Users\sands\Desktop\RedTeamDevelop\bin\Debug\net7.0\RedTeamDevelop.exe
+C:\Users\sands\Desktop\RedTeamDevelop\bin\Debug\net7.0\RedTeamDevelop.deps.json
+C:\Users\sands\Desktop\RedTeamDevelop\bin\Debug\net7.0\RedTeamDevelop.runtimeconfig.json
+C:\Users\sands\Desktop\RedTeamDevelop\bin\Debug\net7.0\RedTeamDevelop.dll
+C:\Users\sands\Desktop\RedTeamDevelop\bin\Debug\net7.0\RedTeamDevelop.pdb
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\RedTeamDevelop.dll
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\refint\RedTeamDevelop.dll
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\RedTeamDevelop.pdb
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\RedTeamDevelop.genruntimeconfig.cache
+C:\Users\sands\Desktop\RedTeamDevelop\obj\Debug\net7.0\ref\RedTeamDevelop.dll
